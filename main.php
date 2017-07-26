@@ -38,7 +38,7 @@ class BootstrapNav {
         if ( has_nav_menu( 'bs-navigation' )){
             return $output . '
             <nav class="navbar navbar-default">
-                <div class="container-fluid">
+                <div class="container">
                     <div class="fusion-row">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header">
